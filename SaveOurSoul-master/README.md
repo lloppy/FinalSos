@@ -9,7 +9,17 @@ It is impossible to predict in advance what situation you might find yourself in
 SOS ("Save Our Souls" or "Save Our Ships") was primarily used as the International Morse Code Distress Call. Now the term is used in a more general sense when it is necessary to send a notification of a situation requiring immediate attention.
 
 
-[(https://github.com/lloppy/lloppy/blob/main/assets/iam.png)](https://vk.com/ankudinovazaecologiy)
+![Иллюстрация к проекту](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/1.jpg)
+![Иллюстрация 2](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/2.jpg)
+![Иллюстрация 3](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/3.jpg)
+![Иллюстрация 4](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/4.jpg)
+![Иллюстрация 5](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/5.jpg)
+![Иллюстрация 6](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/6.jpg)
+![Иллюстрация 7](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/7.jpg)
+![Иллюстрация 8](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/8.jpg)
+![Иллюстрация 9](https://github.com/lloppy/FinalSos/blob/master/SaveOurSoul-master/asses/9.jpg)
+
+
 
 ## Message
 In our application, users will be able to send multiple text messages with one click of a button. Phone numbers and text message content can be configured from within the application. The message text sent by the user also contains the last known location of the user and is displayed with Link in GoogleMaps.
